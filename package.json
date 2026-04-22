@@ -1,0 +1,14 @@
+{
+  "name": "dr-benny-ferdman-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot for Dr. Benny Ferdman Dental Clinic",
+  "main": "bot_server.js",
+  "scripts": {
+    "start": "node bot_server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
